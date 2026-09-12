@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Anderson Taya 👋
 
-<!--
-**AnderTy2106/anderty2106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Systems Engineering student and backend-focused developer, passionate about building efficient and scalable solutions.
 
-Here are some ideas to get you started:
+### 👨‍💻 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Systems Engineering student at Universidad Nacional San Luis Gonzaga.
+* 🌱 Currently diving deeper into backend development with **Java, Spring Boot, and PostgreSQL**.
+* ⚡ Outside of code: I stay active training at the gym, hanging out with friends, listening to music, and watching series.
+
+### 🛠️ Tech Stack
+
+* **Languages & Frameworks:** Java, Spring Boot
+* **Databases:** PostgreSQL
+* **Tools & Environments:** Git, GitHub, IntelliJ IDEA, Visual Studio Code
+
+### 📫 How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersontayaipanaque/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andersonty2106@gmail.com)
